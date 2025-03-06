@@ -56,14 +56,14 @@ window.onclick = (event) => {
 // Manda para o WhatsApp ao clicar no botão Conversar
 
 document.getElementById('conversar01').addEventListener('click', () => {
-    window.open(+5581989040712);
+    window.open('https://bit.ly/MovementPersonalContatar');
 });
 document.getElementById('conversar02').addEventListener('click', () => {
-    window.open('+5581989040712');
+    window.open('https://bit.ly/MovementPersonalContatar');
 });
 document.getElementById('conversar03').addEventListener('click', () => {
-    window.open('+5581989040712');
+    window.open('https://bit.ly/MovementPersonalContatar');
 });
 document.getElementById('conversar04').addEventListener('click', () => {
-    window.open('+5581989040712');
+    window.open('https://bit.ly/MovementPersonalContatar');
 });
